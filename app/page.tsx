@@ -5,7 +5,7 @@ export default function Home() {
     <main className="resume-container">
       <section className="pdf-wrapper">
         <iframe
-          src="/resume.pdf#zoom=100"
+          src="/AdibaArooj_Resume.pdf#zoom=100"
           title="Resume"
           className="pdf-viewer"
         />
